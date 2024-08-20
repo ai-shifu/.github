@@ -1,12 +1,50 @@
-## Hi there 👋
+## 哎！师傅 👋
 
-<!--
+### 产品介绍
+哎！师傅（AI-Shifu.com），是一家实现「体系化授课、个性化学习」的 AI  教学平台。
+可以理解为是「一本个性化的书，一门可以和 AI 老师交流的课。」
 
-**Here are some ideas to get you started:**
+### 产品特点
+* AI 辅助教师设计课程大纲、学习路径，用 prompt 指挥 AI 授课，降低课程生产成本。
+* 为学习者匹配千人千面的学习诉求，学习者可随时追问课程内容，实现互动式、自主性的学习体验。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 包含3个模块
+* 课程平台：展示和售卖平台上所有课程
+* 学习界面：学员学习所购课程的界面
+* 教研系统：老师们用来生产课程内容
+
+### 产品的独特价值
+
+对于老师：并非替代老师，而是使用 AI 放大老师的核心价值
+
+#### 指挥 AI 生成课程，降低课程制作成本
+
+* 老师不需要自己写课件文字稿，通过 prompt 控制 AI 输出课程内容
+* 老师不需要具备语言、表情、肢体表达能力，AI 可以根据要求完成授课
+* 老师不需要自己编写案例，AI 可以根据要求快速匹配相关的案例
+* 老师通过脚本控制课程内容，课程开发很敏捷，课程迭代很便捷
+
+#### 使用 AI教学系统，实现老师与 AI 的完美配合
+* 真人专家把控课程的学习结构和学习内容，杜绝 AI 幻觉
+* 老师只需具备方法论，给 AI  补充专业的背景知识
+* 学习者可以通过即时追问， AI 承担了一部分答疑的服务
+
+#### 2B 托管+2C 卖课形成双边互利式商业闭环生态
+* 个人 IP 变现和课程交付的新途径
+* 平台为优质内容提供流量
+
+对于学习者：更懂「我」的课程，「我」来做主的学习
+
+### 根据学员的学习喜好和个人情况，实现教学千人千面
+* 让 AI 配合自身情况和学习习惯，获得个性化教学
+* 存储学员过往的学习记录，建立个人的知识库
+### AI 提供实时教学服务，激发学习自主性
+* 学员可以随时发起追问，就自己感兴趣的内容深入探讨
+* 贴合学习过程，与 AI 进行学习互动，激发兴趣
+
+### PGC+AIGC，提供独有的高质量内容
+* 2025年起，每年将推荐 100 门以上的精品课程
+* 官方会结合需求自行生产课程，确保课程的质量
+* 结合学习数据，筛选出高口碑的合作老师自产课程
+
+ 
