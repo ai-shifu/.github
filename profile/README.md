@@ -3,4 +3,4 @@ AI-Shifu is dedicated to unlocking AI’s full potential through open source, em
 # Projects
 
 1. [ChatALL](https://github.com/ai-shifu/ChatALL): Chat with ALL AI Bots Concurrently, Discover the Best.
-2. AI-Shifu (Coming soon): a framework for AI-guided chat flow.
+2. [AI-Shifu](https://github.com/ai-shifu/ai-shifu): a framework for AI-guided chat flow.
